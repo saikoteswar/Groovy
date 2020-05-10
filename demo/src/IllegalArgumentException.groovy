@@ -1,0 +1,3 @@
+class IllegalArgumentException extends Exception {
+    
+}
